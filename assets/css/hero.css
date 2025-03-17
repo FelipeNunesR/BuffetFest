@@ -17,6 +17,7 @@
     font-size: 5rem;
     line-height: 6rem;
     color: white;
+    
 }
 .hero h1 span{
     color:var(--secondary);
